@@ -1,0 +1,24 @@
+p{
+    text-align: justify;
+    background-color: tan;
+    color: blueviolet;
+}
+
+h2{
+    background-color: darkblue;
+    color: beige;
+    font-style: italic;
+}
+
+li{
+    color: darkcyan;
+    text-decoration: underline dotted black;
+}
+
+img{
+    border: 2px dashed gold;
+}
+
+.image{
+    text-align: center;
+}
